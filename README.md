@@ -11,6 +11,8 @@ A simple React app to browse and search for movies. Built with [Vite](https://vi
 ## Screenshot
 
 ![Movie Catalog Screenshot](./screenshot.png)
+![Movie Catalog Screenshot](./screenshot1.png)
+![Movie Catalog Screenshot](./screenshot2.png)
 
 ## Getting Started
 
