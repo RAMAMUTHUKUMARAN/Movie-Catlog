@@ -13,6 +13,9 @@ A simple React app to browse and search for movies. Built with [Vite](https://vi
 ![Movie Catalog Screenshot](./screenshot.png)
 ![Movie Catalog Screenshot](./screenshot1.png)
 ![Movie Catalog Screenshot](./screenshot2.png)
+# Live Demo
+
+[View the deployed app here](https://movie-catlog-1ag2.vercel.app/)
 
 ## Getting Started
 
